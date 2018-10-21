@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: novus_en_001\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-01 01:00+0200\n"
+"PO-Revision-Date: 2013-03-01 01:00+0200\n"
+"Last-Translator: Chris Skevis <xristos.thes@gmail.com>\n"
+"Language-Team: novus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: novusbit/views/author_view_Not-in-use.php:26
+msgid "Seems like you dont follow anyone."
+msgstr "Seems like you dont follow anyone."
+
+#: novusbit/views/author_view_Not-in-use.php:26
+#: novusbit/views/author_view_Not-in-use.php:68
+msgid "You may do so by clicking on the"
+msgstr "You may do so by clicking on the"
+
+#: novusbit/views/author_view_Not-in-use.php:26
+msgid "+Watch"
+msgstr "+Watch"
+
+#: novusbit/views/author_view_Not-in-use.php:26
+msgid "link next to any author's username."
+msgstr "link next to any author's username."
+
+#: novusbit/views/author_view_Not-in-use.php:34
+#: novusbit/views/author_view_Not-in-use.php:37
+#: novusbit/views/author_view_Not-in-use.php:148
+#: novusbit/views/novuses_view.php:181
+msgid "View Author page"
+msgstr "View Author page"
+
+#: novusbit/views/author_view_Not-in-use.php:40
+msgid "has written these novus:"
+msgstr "has written these novus:"
+
+#: novusbit/views/author_view_Not-in-use.php:49
+#: novusbit/views/author_view_Not-in-use.php:52
+#: novusbit/views/author_view_Not-in-use.php:81
+#: novusbit/views/author_view_Not-in-use.php:99
+#: novusbit/views/author_view_Not-in-use.php:134
+#: novusbit/views/author_view_Not-in-use.php:154
+#: novusbit/views/author_view_Not-in-use.php:193
+#: novusbit/views/novuses_view.php:153
+#: novusbit/views/novuses_view.php:155
+msgid "View Novus"
+msgstr "View Novus"
+
+#: novusbit/views/author_view_Not-in-use.php:64
+msgid "My Novuses"
+msgstr "My Novuses"
+
+#: novusbit/views/author_view_Not-in-use.php:68
+msgid "Now its the right time to start your own novus!"
+msgstr "Now its the right time to start your own novus!"
+
+#: novusbit/views/author_view_Not-in-use.php:68
+msgid "Start a novus"
+msgstr "Start a novus"
+
+#: novusbit/views/author_view_Not-in-use.php:68
+msgid "link, above."
+msgstr "link, above."
+
+#: novusbit/views/author_view_Not-in-use.php:119
+msgid "Appreciations"
+msgstr "Appreciations"
+
+#: novusbit/views/author_view_Not-in-use.php:123
+msgid "Your novuses haven't gathered any appreciation points yet."
+msgstr "Your novuses haven't gathered any appreciation points yet."
+
+#: novusbit/views/author_view_Not-in-use.php:123
+msgid "The more you write the better you will get."
+msgstr "The more you write the better you will get."
+
+#: novusbit/views/author_view_Not-in-use.php:123
+msgid "Find and make friends with other authors or invite your own friends to novusbit!"
+msgstr "Find and make friends with other authors or invite your own friends to novusbit!"
+
+#: novusbit/views/author_view_Not-in-use.php:166
+msgid "My Bits"
+msgstr "My Bits"
+
+#: novusbit/views/author_view_Not-in-use.php:172
+msgid "You haven't post a bit yet."
+msgstr "You haven't post a bit yet."
+
+#: novusbit/views/author_view_Not-in-use.php:172
+msgid "Bits is the fun part of novus..bit! Select a novus, any novus really."
+msgstr "Bits is the fun part of novus..bit! Select a novus, any novus really."
+
+#: novusbit/views/author_view_Not-in-use.php:172
+msgid "Read it and then expand it by typing in your own bit!"
+msgstr "Read it and then expand it by typing in your own bit!"
+
+#: novusbit/views/author_view_Not-in-use.php:189
+msgid "Parent novus:"
+msgstr "Parent novus:"
+
+#: novusbit/views/author_view_Not-in-use.php:196
+msgid "Remove bit"
+msgstr "Remove bit"
+
+#: novusbit/views/author_view_Not-in-use.php:225
+msgid "Total appreciations received:"
+msgstr "Total appreciations received:"
+
+#: novusbit/views/author_view_Not-in-use.php:227
+msgid "No appreciations received."
+msgstr "No appreciations received."
+
+#: novusbit/views/choose_alias.php:1
+msgid "We've shaken hands with your facebook. Choose your alias by which you'll be registered in Novusbit."
+msgstr "We've shaken hands with your facebook. Choose your alias by which you'll be registered in Novusbit."
+
+#: novusbit/views/choose_alias.php:3
+msgid "Your alias should be unique and cannot contain funny characters nor spaces."
+msgstr "Your alias should be unique and cannot contain funny characters nor spaces."
+
+#: novusbit/views/newnovus_view.php:6
+msgid "Create a new novus in"
+msgstr "Create a new novus in"
+
+#: novusbit/views/newnovus_view.php:8
+msgid "Create a new novus? Easy."
+msgstr "Create a new novus? Easy."
+
+#: novusbit/views/newnovus_view.php:11
+msgid "How will you call your story?"
+msgstr "How will you call your story?"
+
+#: novusbit/views/newnovus_view.php:25
+msgid "Write a short description for your story"
+msgstr "Write a short description for your story"
+
+#: novusbit/views/newnovus_view.php:38
+msgid "If you want to advice or give any directions, note them below"
+msgstr "If you want to advice or give any directions, note them below"
+
+#: novusbit/views/newnovus_view.php:73
+msgid "Choose your novus type"
+msgstr "Choose your novus type"
+
+#: novusbit/views/newnovus_view.php:74
+msgid "This is how you get your novus fun! Pick up one of the following novus types <br>and challenge your friends to twist your story."
+msgstr "This is how you get your novus fun! Pick up one of the following novus types <br>and challenge your friends to twist your story."
+
+#: novusbit/views/newnovus_view.php:80
+msgid "Classic novus"
+msgstr "Classic novus"
+
+#: novusbit/views/newnovus_view.php:81
+msgid "This is the type where no artificial challenges or limitations apply. The only think you have to do is to write an interesing and inspired bit."
+msgstr "This is the type where no artificial challenges or limitations apply. The only think you have to do is to write an interesing and inspired bit."
+
+#: novusbit/views/newnovus_view.php:89
+msgid "Hourglass"
+msgstr "Hourglass"
+
+#: novusbit/views/newnovus_view.php:90
+msgid "When the clock is ticking, things are getting more exciting. Write your bit in 2 minutes!"
+msgstr "When the clock is ticking, things are getting more exciting. Write your bit in 2 minutes!"
+
+#: novusbit/views/newnovus_view.php:98
+msgid "Laconism"
+msgstr "Laconism"
+
+#: novusbit/views/newnovus_view.php:99
+msgid "Sometimes saying less has more meaning. Write your bit but have in mind the word limit!"
+msgstr "Sometimes saying less has more meaning. Write your bit but have in mind the word limit!"
+
+#: novusbit/views/newnovus_view.php:107
+msgid "Blurry salad"
+msgstr "Blurry salad"
+
+#: novusbit/views/newnovus_view.php:108
+msgid "A novus might have 100 bits. You just get to see the last one. Can you write a bit that fits well with all the rest, judging just by the last one?"
+msgstr "A novus might have 100 bits. You just get to see the last one. Can you write a bit that fits well with all the rest, judging just by the last one?"
+
+#: novusbit/views/newnovus_view.php:116
+msgid "Cloud nine"
+msgstr "Cloud nine"
+
+#: novusbit/views/newnovus_view.php:117
+msgid "Do you know what's a keyword or tag cloud? The 6 most frequent keywords of all bits are presented to you. Can you write your bit and use all of them?"
+msgstr "Do you know what's a keyword or tag cloud? The 6 most frequent keywords of all bits are presented to you. Can you write your bit and use all of them?"
+
+#: novusbit/views/newnovus_view.php:125
+msgid "Prose worm"
+msgstr "Prose worm"
+
+#: novusbit/views/newnovus_view.php:126
+msgid "So simple, yet challenging: Your bit must start with the last word .. of the last bit. Do you take the challenge?"
+msgstr "So simple, yet challenging: Your bit must start with the last word .. of the last bit. Do you take the challenge?"
+
+#: novusbit/views/newnovus_view.php:134
+msgid "Irriversable"
+msgstr "Irriversable"
+
+#: novusbit/views/newnovus_view.php:135
+msgid "How about instead of appending each bit at the end of the story...Each bit will be placed on top of all other? There you have it, a reversed story!"
+msgstr "How about instead of appending each bit at the end of the story...Each bit will be placed on top of all other? There you have it, a reversed story!"
+
+#: novusbit/views/newnovus_view.php:302
+msgid "Category:"
+msgstr "Category:"
+
+#: novusbit/views/newnovus_view.php:306
+msgid "Choose a cover image"
+msgstr "Choose a cover image"
+
+#: novusbit/views/novuses_view.php:31
+msgid "closed"
+msgstr "closed"
+
+#: novusbit/views/novuses_view.php:31
+msgid "open"
+msgstr "open"
+
+#: novusbit/views/novuses_view.php:31
+msgid "virgin"
+msgstr "virgin"
+
+#: novusbit/views/novuses_view.php:55
+msgid "View this category"
+msgstr "View this category"
+
+#: novusbit/views/novuses_view.php:57
+msgid "View this type"
+msgstr "View this type"
+
+#: novusbit/views/novuses_view.php:76
+msgid "unread"
+msgstr "unread"
+
+#: novusbit/views/novuses_view.php:81
+msgid "Closed"
+msgstr "Closed"
+
+#: novusbit/views/novuses_view.php:104
+msgid "Some unread bits.<br>Click to hide this marker or you can simply view the novus and we'll remove it for you."
+msgstr "Some unread bits.<br>Click to hide this marker or you can simply view the novus and we'll remove it for you."
+
+#: novusbit/views/novuses_view.php:128
+msgid "Some unread bits."
+msgstr "Some unread bits."
+
+#: novusbit/views/novuses_view.php:128
+msgid "Click to hide this marker or you can simply view the novus and we'll remove it for you."
+msgstr "Click to hide this marker or you can simply view the novus and we'll remove it for you."
+
+#: novusbit/views/novus_update_view.php:7
+msgid "How will you call it?"
+msgstr "How will you call it?"
+
+#: novusbit/views/novus_update_view.php:20
+msgid "Write your bit body"
+msgstr "Write your bit body"
+
+#: novusbit/views/novus_update_view.php:24
+msgid "Anything for the sandbox?"
+msgstr "Anything for the sandbox?"
+
+#: novusbit/views/types_and_categories.php:8
+msgid "Join now!"
+msgstr "Join now!"
+
+#: novusbit/views/types_and_categories.php:9
+msgid "All of us have a great story to tell. Sometimes it's just a blurry idea, a seed, or you've nailed the perfect plot but without much of an ending. <br>Novusbit is the place to see your stories flurish."
+msgstr "All of us have a great story to tell. Sometimes it's just a blurry idea, a seed, or you've nailed the perfect plot but without much of an ending. <br>Novusbit is the place to see your stories flurish."
+
+#: novusbit/views/types_and_categories.php:10
+msgid "I want to be great author"
+msgstr "I want to be great author"
+
+#: novusbit/views/types_and_categories.php:28
+msgid "Categories"
+msgstr "Categories"
+
+#: novusbit/views/welcome.php:8
+msgid "Username"
+msgstr "User Name"
+
+#: novusbit/views/welcome.php:11
+msgid "Password"
+msgstr "Password"
+
+#: novusbit/views/welcome.php:16
+msgid "Sign up"
+msgstr "Sign up"
+
+#: novusbit/views/welcome.php:23
+msgid "Already a member?"
+msgstr "Already a member?"
+
+#: novusbit/views/welcome.php:28
+msgid "close"
+msgstr "close"
+
+#: novusbit/views/welcome.php:30
+msgid "novus_description"
+msgstr "A novus is a story. We've called novus 'cause in latin novus means novel. Such a story is written by many authors; you. Bit by bit. Each and every bit gives the story a new twist!"
+
+#: novusbit/views/welcome.php:35
+msgid "Novus"
+msgstr "Novus"
+
+#: novusbit/views/welcome.php:35
+msgid "bit"
+msgstr "bit"
+
+#: novusbit/views/welcome.php:36
+msgid "Twist your story."
+msgstr "Twist your story."
+

@@ -1,0 +1,88 @@
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License:none (public domain)*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, svg {
+margin: 0;
+padding: 0;
+vertical-align: baseline;
+border: 0;
+outline: 0;
+background: transparent;
+}
+user agent stylesheet
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+	display:block;
+}
+ol,ul {
+	list-style:none;
+}
+blockquote,q {
+	quotes:none;
+}
+blockquote:before,blockquote:after,q:before,q:after {
+	content:'';
+	content:none;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+@font-face {
+	font-family:PFDinTextCompProBold;
+	src:url(pfdintextcomppro-bold-webfont.eot);
+	src:url(pfdintextcomppro-bold-webfont.eot?iefix) format(eot),
+	url(pfdintextcomppro-bold-webfont.woff) format(woff),
+	url(pfdintextcomppro-bold-webfont.ttf) format(truetype),
+	url(pfdintextcomppro-bold-webfont.svg#webfontjxdwEukO) format(svg);
+	font-weight:normal;
+	font-style:normal;
+}
+* {
+	outline:0!important;
+}
+::selection {
+	background: #c3dffe; /* Safari */
+	
+	}
+::-moz-selection {
+	background: #c3dffe; /* Firefox */
+		
+}
+
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}

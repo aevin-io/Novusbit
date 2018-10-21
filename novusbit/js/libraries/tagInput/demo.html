@@ -1,0 +1,52 @@
+<html>
+<head>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="jquery.timers.js"></script>
+
+</head>
+<body>
+
+
+
+<div width="600" style="margin-left:150px">
+
+
+tags: <input type="text" size="80" id="tag" >
+<!--suggested tags:<span id="suggested" class="tagInputSuggestedTagList"></span>-->
+  <link rel=stylesheet href="jquery.tagInput.css" type="text/css">
+  <script type="text/javascript" src="jquery.tagInput.js"></script>
+
+<script type="text/javascript">
+  var tags=[
+        {tag:"js",freq:30},{tag:"jquery",freq:25}, {tag:"pojo",freq:10},{tag:"agile",freq:4},
+        {tag:"blog",freq:3},{tag:"canvas",freq:8}, {tag:"dialog",freq:3},{tag:"excel",freq:4},
+        {tag:"engine",freq:5},{tag:"flex",freq:18}, {tag:"firefox",freq:23},{tag:"javascript",freq:40},
+        {tag:"graph",freq:15},{tag:"grid",freq:20}, {tag:"hibernate",freq:13},{tag:"ical",freq:4},
+        {tag:"ldap",freq:9},{tag:"load",freq:20}, {tag:"security",freq:13},{tag:"XSS",freq:21},
+        {tag:"CSRF",freq:19},{tag:"html",freq:22}, {tag:"xml",freq:13},{tag:"tools",freq:21}
+      ]
+
+  $(function(){
+    $("#tag").tagInput({
+      tags:tags,
+      //jsonUrl:"tags.json",
+      sortBy:"frequency",
+      suggestedTags:["jquery","tagging","tag","component","delicious","javascript"],
+      tagSeparator:" ",
+      autoFilter:true,
+      autoStart:false,
+      //suggestedTagsPlaceHolder:$("#suggested"),
+      boldify:true
+
+    })
+  })
+
+</script>
+
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+
+        RewriteEngine On
+         
+       # RewriteBase /www.novusbit.com/dev/ 
+
+        # RewriteCond %{HTTP_HOST} ^novusbit.com/$1 [NC]
+        # RewriteRule ^(.*)$ http://www.novusbit.com/$1 [R=301,NC]
+
+        RewriteCond %{ENV:REDIRECT_APP_PATH} !^$
+        RewriteRule ^(.*)$ - [E=APP_PATH:%{ENV:REDIRECT_APP_PATH}]
+         
+        RewriteCond %{ENV:APP_PATH} ^$
+        RewriteRule ^(.*)$ - [E=APP_PATH:/$1]
+         
+        RewriteCond $1 !^(index\.php|img|css|js|robots\.txt|favicon\.ico)
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ index.php [L]
+</IfModule>	 

@@ -1,0 +1,31 @@
+    .highlight {
+     background: #FF8D00;
+border: 1px dotted #666;
+color: white;
+padding: 3px;    }
+    
+    #fancy-text {
+text-shadow: 0px 0px rgba(34, 25, 25, 0.5);
+-webkit-box-shadow: inset 0px 0px 2px 1px rgba(24, 68, 99, 0.2);
+box-shadow: inset 0px 0px 2px 1px rgba(24, 68, 99, 0.2);
+background: #E9E9E9;
+padding: 10px;
+margin: 16px 30px 10px 0px;
+border: 0px dotted #dc7a00;
+font-size: 22px;
+color: rgb(46, 100, 138);
+    }
+    
+    #fancy-input {
+      font-size: 100%;
+      background: #ABC;
+    }
+
+    #fancy-input.error {
+      background: red;
+    }
+    
+    #input {
+      clear:left;
+      font-size: 200%;
+    }
