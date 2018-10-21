@@ -60,3 +60,5 @@ Authors can watch aka follow other authors. Each time one author in your watch l
 - Make the appropriate changes to /novusbit/config/config.php to reflect your database configuration
 
 
+
+<img src="https://i.imgur.com/lbtG7f1.gif" width="500">
