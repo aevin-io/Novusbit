@@ -2,7 +2,10 @@
 Each novus is a collaborative effort of all its authors who have contribute to the story. 
  
 A novus can be a fictional story, a fairy tail, a poem or even an essay collaboratively written by experts.
- 
+
+![alt text](https://i.imgur.com/RvnSbID.jpg)
+
+
 In case you want a geeky way to describe it, is a collaborative writing platform. The difference is that author may not edit each others bits. In novusbit our mainly goal is to create a vast collection of interesting and intriguing stories written by many. Authors here, do not merely write the perfect novel, expecting appraising comments and "likes". Authors publishing their novuses or bits with the thrill to see their inspiration grow and develop by others further.
  
 Novusbit is all about openness and collaboration. Everyone is welcome.
@@ -24,7 +27,7 @@ There are 7 types of novus, all very interesting; really.
 - Prose Worm. So simple, yet challenging: Your bit must start with the last word .. of the last bit. Do you take the challenge? (Nope, you cant delete the first word of your bit, seriously, you just can't).
 - Irriversable. Seemed like the novus types weren't enough weird and then we thought of that. How about instead of appending each bit at the end of the story...Each bit will be placed on top of all other? There you have it, a reversed story! The first bit entered is the end of the story, the others is a backwards journey to find where all started!
  
- 
+![alt text](https://i.imgur.com/qT0BvAf.jpg) 
  
  
 There are some simple rules in novusbit. Our community is the driven force of the content and thus the author themselves are responsible to uphold the quality and integrity of whats written. For instance, if the last written bit states that all the story heroes were abducted by aliens, (e.g practically ending the novus) while the novus category had nothing to do with science fiction, this bit may considered spam and should be removed.
@@ -36,6 +39,8 @@ A novus may be closed/ended only by the original author of the novus. A bit may 
 A novus can be appreciated, aka favorited by an registered author. If you appreciate a novus, it will appear in your personal home page, under the appreciations. Each time a new bit in entered in one of your appreciated novus, it will be marked as unread with the count of the unread bits. Once you visit the novus the uread bit count resets to zero.
  
 Authors can watch aka follow other authors. Each time one author in your watch list publishes a new novus with will appear under his alias/name with an option to hide it from the notifications.
+
+![alt text](https://i.imgur.com/fgKM9ef.jpg)
 
 # Technical
 
