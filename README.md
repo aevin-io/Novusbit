@@ -36,3 +36,12 @@ A novus may be closed/ended only by the original author of the novus. A bit may 
 A novus can be appreciated, aka favorited by an registered author. If you appreciate a novus, it will appear in your personal home page, under the appreciations. Each time a new bit in entered in one of your appreciated novus, it will be marked as unread with the count of the unread bits. Once you visit the novus the uread bit count resets to zero.
  
 Authors can watch aka follow other authors. Each time one author in your watch list publishes a new novus with will appear under his alias/name with an option to hide it from the notifications.
+
+# Technical
+
+Runs on PHP 5.5.x
+Uses CodeIgniter Framework 2.0 ( https://www.codeigniter.com )
+Uses JQuery 1.6.1 & JQueryUI 1.8.11
+Used RedBeanPHP 3.2 ( https://www.redbeanphp.com )
+MySQL (last tested on 5.7.23)
+
