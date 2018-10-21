@@ -39,15 +39,19 @@ Authors can watch aka follow other authors. Each time one author in your watch l
 
 # Technical
 
-Runs on PHP 5.5.x
+- Runs on PHP 5.5.x
+- Uses CodeIgniter Framework 2.0 ( https://www.codeigniter.com )
+- Uses JQuery 1.6.1 & JQueryUI 1.8.11
+- Used RedBeanPHP 3.2 ( https://www.redbeanphp.com )
+- MySQL (last tested on 5.7.23)
 
-Uses CodeIgniter Framework 2.0 ( https://www.codeigniter.com )
 
-Uses JQuery 1.6.1 & JQueryUI 1.8.11
+# Installation
 
-Used RedBeanPHP 3.2 ( https://www.redbeanphp.com )
-
-MySQL (last tested on 5.7.23)
-
+- For a quick local installation you may get and install MAMP ( https://www.mamp.info/ )
+- In case you already have PHP/MySQL running, you don't have to install anything else. 
+- Make sure you've switched PHP to version to 5.5.x or earlier. 
+- Create the required database and commit the 'NOVUSBIT_DB_DEPLOY.sql' to it.
+- Make the appropriate changes to /novusbit/config/config.php to reflect your database configuration
 
 
