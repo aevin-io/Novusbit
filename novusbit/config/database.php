@@ -39,7 +39,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = "localhost";
 $db['default']['username'] = "novusbit";
-$db['default']['password'] = "omDSjLRUUAlL1ixn";
+$db['default']['password'] = "---your-password-here---";
 $db['default']['database'] = "novusbit";
 $db['default']['dbdriver'] = "mysql";
 $db['default']['dbprefix'] = "";
