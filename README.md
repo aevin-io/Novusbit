@@ -40,8 +40,13 @@ Authors can watch aka follow other authors. Each time one author in your watch l
 # Technical
 
 Runs on PHP 5.5.x
+
 Uses CodeIgniter Framework 2.0 ( https://www.codeigniter.com )
+
 Uses JQuery 1.6.1 & JQueryUI 1.8.11
+
 Used RedBeanPHP 3.2 ( https://www.redbeanphp.com )
+
 MySQL (last tested on 5.7.23)
+
 
